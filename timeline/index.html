@@ -233,22 +233,22 @@
             }
 
             var tl = Timeline.create(document.getElementById("tl"), bandInfos, Timeline.HORIZONTAL);
-            tl.loadXML("history.xml", function(xml, url) {
+            tl.loadXML("xml/history.xml", function(xml, url) {
                 eventSourceHistory.loadXML(xml, url);
             });
-            tl.loadXML("gospels.xml", function(xml, url) {
+            tl.loadXML("xml/gospels.xml", function(xml, url) {
                 eventSourceGospels.loadXML(xml, url);
             });
-            tl.loadXML("byzantine.xml", function(xml, url) {
+            tl.loadXML("xml/byzantine.xml", function(xml, url) {
                 eventSourceByzantine.loadXML(xml, url);
             });
-            tl.loadXML("alexandrian.xml", function(xml, url) {
+            tl.loadXML("xml/alexandrian.xml", function(xml, url) {
                 eventSourceAlexandrian.loadXML(xml, url);
             });
-            tl.loadXML("philosophy.xml", function(xml, url) {
+            tl.loadXML("xml/philosophy.xml", function(xml, url) {
                 eventSourcePhilosophy.loadXML(xml, url);
             });
-            tl.loadXML("all.xml", function(xml, url) {
+            tl.loadXML("xml/all.xml", function(xml, url) {
                 eventSourceAllEvents.loadXML(xml, url);
             });
 
