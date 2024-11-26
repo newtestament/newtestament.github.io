@@ -1,0 +1,348 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>New testament history</title>
+		
+    <link rel="stylesheet" href="include/styles.css" type="text/css"/>
+    <style type="text/css">
+        .timeline-band-events .important { color: #f00; }
+	</style>
+    <script src="http://simile.mit.edu/timeline/api/timeline-api.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+		function onLoad() {
+			//http://www.simile-widgets.org/wiki/Timeline
+            //Documentation: http://simile-widgets.org/wiki/Timeline_ThemeClass
+    		//Documentation: http://simile.mit.edu/timeline/api/scripts/themes.js
+			var eventSourceHistory   = new Timeline.DefaultEventSource();
+			var eventSourceGospels = new Timeline.DefaultEventSource();
+			var eventSourceByzantine  = new Timeline.DefaultEventSource();
+			var eventSourceAlexandrian  = new Timeline.DefaultEventSource();
+			var eventSourcePhilosophy  = new Timeline.DefaultEventSource();
+			var eventSourceAllEvents  = new Timeline.DefaultEventSource();
+
+            var themeMain = Timeline.ClassicTheme.create();
+            //Documentation: http://simile-widgets.org/wiki/Timeline_ThemeClass
+    		//Documentation: http://simile.mit.edu/timeline/api/scripts/themes.js
+            /*themeMain.ether.interval.line.color = "#E7DFD6";
+            themeMain.event.instant.lineColor = "white";
+            themeMain.event.instant.impreciseColor = "white";
+            themeMain.event.label.outsideColor = "#EEEEEE";
+            themeMain.event.label.insideColor = "#EEEEEE";
+            themeMain.event.bubble.width = 200;
+            themeMain.event.label.width = 200;
+            themeMain.event.duration.color = "white";*/
+            themeMain.ether.interval.weekend.color = "#EEEEEE";
+            themeMain.ether.interval.line.color = "#EEEEEE";
+            themeMain.ether.highlightColor = 'red';
+            themeMain.event.track.height = 1;
+            themeMain.event.bubble.width = 450;
+            themeMain.event.bubble.height = 220;
+            themeMain.event.instant.lineColor = "#EEEEEE";
+            themeMain.event.track.showLineForNoText = "false";
+            themeMain.ether.backgroundColors = [
+                "#FFFFFF",
+                "#F4F4F4",
+                "#EEEEEE",
+                "#E5E5E5",
+                "#DFDFDF",
+                "#D6D6D6",
+                "#CACACA",
+            ];
+            
+            var themeBorder = Timeline.ClassicTheme.create();
+            //themeBorder.ether.label.lineColor = 'red';
+            themeBorder.ether.interval.line.show = 'false';
+            themeBorder.event.track.showLineForNoText = "false";
+            themeBorder.ether.backgroundColors = [
+                "#009982",
+                "#009982",
+                "#009982",
+                "#009982",
+                "#009982",
+                "#009982",
+                "#009982",
+            ];
+
+				  var bandInfos = [
+    		    //Documentation: http://simile.mit.edu/timeline/docs/timelines.html
+/*  Top  */ Timeline.createBandInfo({
+				        date:           "Dec 31 1000 00:00:00 GMT",
+				        width:          "4%", 
+				        eventSource:    eventSourceAllEvents,
+				        intervalUnit:   Timeline.DateTime.CENTURY, 
+				        intervalPixels: 25,
+				        multiple: 			10,
+				        showEventText:  false,
+                theme:          themeBorder,
+                trackGap:				0.2,
+				        trackHeight:    0.5
+				    }),
+/*History*/ Timeline.createHotZoneBandInfo({
+						        zones: [
+						            {   start:    "Dec 31 1 06:00:00 GMT-0000",
+						                end:      "Dec 31 1500 12:00:00 GMT-0000",
+						                magnify:  2,
+                            multiple: 100,
+						                unit:     Timeline.DateTime.DECADE
+						            }
+						        ],
+						        timeZone:       -5,
+						        eventSource:    eventSourceHistory,
+						        date:           "Dec 31 1000 00:00:00 GMT",
+						        width:          "18%", 
+						        intervalUnit:   Timeline.DateTime.CENTURY, 
+						        intervalPixels: 50,
+						        multiple: 			100,
+                		theme:          themeMain
+						    }),
+/*Gospels*/ Timeline.createHotZoneBandInfo({
+						        zones: [
+						            {   start:    "Dec 31 1 06:00:00 GMT-0000",
+						                end:      "Dec 31 1500 12:00:00 GMT-0000",
+						                magnify:  2,
+                            multiple: 100,
+						                unit:     Timeline.DateTime.DECADE
+						            }
+						        ],
+						        timeZone:       -5,
+						        eventSource:    eventSourceGospels,
+						        date:           "Dec 31 1000 00:00:00 GMT",
+						        width:          "18%", 
+						        intervalUnit:   Timeline.DateTime.CENTURY, 
+						        intervalPixels: 50,
+						        multiple: 			100,
+                		theme:          themeMain
+						    }),
+/*Byzantine*/ Timeline.createHotZoneBandInfo({
+						        zones: [
+						            {   start:    "Dec 31 1 06:00:00 GMT-0000",
+						                end:      "Dec 31 1500 12:00:00 GMT-0000",
+						                magnify:  2,
+                            multiple: 100,
+						                unit:     Timeline.DateTime.DECADE
+						            }
+						        ],
+						        timeZone:       -5,
+						        eventSource:    eventSourceByzantine,
+						        date:           "Dec 31 1000 00:00:00 GMT",
+						        width:          "18%", 
+						        intervalUnit:   Timeline.DateTime.CENTURY, 
+						        intervalPixels: 50,
+						        multiple: 			100,
+                		theme:          themeMain
+						    }),
+/*Alexandrian*/ Timeline.createHotZoneBandInfo({
+						        zones: [
+						            {   start:    "Dec 31 1 06:00:00 GMT-0000",
+						                end:      "Dec 31 1500 12:00:00 GMT-0000",
+						                magnify:  2,
+                            multiple: 100,
+						                unit:     Timeline.DateTime.DECADE
+						            }
+						        ],
+						        timeZone:       -5,
+						        eventSource:    eventSourceAlexandrian,
+						        date:           "Dec 31 1000 00:00:00 GMT",
+						        width:          "18%", 
+						        intervalUnit:   Timeline.DateTime.CENTURY, 
+						        intervalPixels: 50,
+						        multiple: 			100,
+                		theme:          themeMain
+						    }),
+/*Philosophy*/ Timeline.createHotZoneBandInfo({
+						        zones: [
+						            {   start:    "Dec 31 1 06:00:00 GMT-0000",
+						                end:      "Dec 31 1500 12:00:00 GMT-0000",
+						                magnify:  2,
+                            multiple: 100,
+						                unit:     Timeline.DateTime.DECADE
+						            }
+						        ],
+						        timeZone:       -5,
+						        eventSource:    eventSourcePhilosophy,
+						        date:           "Dec 31 1000 00:00:00 GMT",
+						        width:          "18%", 
+						        intervalUnit:   Timeline.DateTime.CENTURY, 
+						        intervalPixels: 50,
+						        multiple: 			100,
+                		theme:          themeMain
+						    }),
+/*Bottom*/ Timeline.createBandInfo({
+				        date:           "Dec 31 1000 00:00:00 GMT",
+				        width:          "4%", 
+				        eventSource:    eventSourceAllEvents,
+				        intervalUnit:   Timeline.DateTime.CENTURY, 
+				        intervalPixels: 25,
+				        multiple: 			10,
+				        showEventText:  false,
+                theme:          themeBorder,
+                trackGap:				0.2,
+				        trackHeight:    0.5
+				    }),
+				  ];
+
+          bandInfos[1].syncWith = 0;
+				  bandInfos[2].syncWith = 0;
+				  bandInfos[3].syncWith = 0;
+				  bandInfos[4].syncWith = 0;
+				  bandInfos[5].syncWith = 0;
+				  bandInfos[6].syncWith = 0;
+				  bandInfos[0].highlight = true;
+				  bandInfos[6].highlight = false;
+				  
+				  
+				  
+   for (var i = 0; i < bandInfos.length; i++) {
+                bandInfos[i].decorators = [
+										/* Gray band during missing cannons*/
+                    new Timeline.SpanHighlightDecorator({
+                        startDate:  "325 AD",
+                        endDate:    "1517 AD",
+                        color:      "#A7A7A7",
+                        opacity:    50,
+                        startLabel: "",
+                        endLabel:   "",
+                       // theme:      theme,
+                       cssClass: 't-highlight1'
+                    }),
+										/* Protestant Reformation*/
+                    new Timeline.SpanHighlightDecorator({
+                        startDate:  "1517 AD",
+                        endDate:    "1648 AD",
+                        color:      "#AFD2D2",
+                        opacity:    50,
+                        startLabel: "",
+                        endLabel:   "",
+                       // theme:      theme,
+                       cssClass: 't-highlight1'
+                    }),
+										/* Blue band during Blue band during Age of Enlightenment*/
+                    new Timeline.SpanHighlightDecorator({
+                        startDate:  "1650 AD",
+                        endDate:    "1789 AD",
+                        color:      "#AAFFFF",
+                        opacity:    50,
+                        startLabel: "",
+                        endLabel:   "",
+                       // theme:      theme,
+                       cssClass: 't-highlight1'
+                    }),
+                ];
+            }
+
+            var tl = Timeline.create(document.getElementById("tl"), bandInfos, Timeline.HORIZONTAL);
+            tl.loadXML("history.xml", function(xml, url) {
+                eventSourceHistory.loadXML(xml, url);
+            });
+            tl.loadXML("gospels.xml", function(xml, url) {
+                eventSourceGospels.loadXML(xml, url);
+            });
+            tl.loadXML("byzantine.xml", function(xml, url) {
+                eventSourceByzantine.loadXML(xml, url);
+            });
+            tl.loadXML("alexandrian.xml", function(xml, url) {
+                eventSourceAlexandrian.loadXML(xml, url);
+            });
+            tl.loadXML("philosophy.xml", function(xml, url) {
+                eventSourcePhilosophy.loadXML(xml, url);
+            });
+            tl.loadXML("all.xml", function(xml, url) {
+                eventSourceAllEvents.loadXML(xml, url);
+            });
+
+
+				}
+        var resizeTimerID = null;
+        function onResize() {
+            if (resizeTimerID == null) {
+                resizeTimerID = window.setTimeout(function() {
+                    resizeTimerID = null;
+                    tl.layout();
+                }, 500);
+            }
+        }
+    </script>
+
+<script type="text/javascript">
+<!--
+function errorMsg()
+{
+  alert("Netscape 6 or Mozilla is needed to install a sherlock plugin");
+}
+
+function addEngine(name,ext,cat)
+{
+  if ((typeof window.sidebar == "object") && (typeof window.sidebar.addSearchEngine == "function"))
+  {
+    //cat="Web";
+    //cat=prompt('In what category should this engine be installed?','Web')
+    //Mozilla seems to only use .png while IE8 only uses .ico
+    if (ext == ""){ext='png'}
+    if (browser=="Microsoft Internet Explorer"){ext='ico'}
+    window.sidebar.addSearchEngine(
+      "http://sumsearch.org/searchplugins/"+name+".src",	/* engine URL */
+      "http://sumsearch.org/searchplugins/"+name+"."+ext,	/* icon URL */
+      name,		/* engine name */
+      cat )	 /* category name */
+      ;
+  }
+  else
+  {
+    //errorMsg();
+    alert("Netscape 6 or Mozilla is needed to install a sherlock plugin");
+  }
+}
+
+function addOpenSearch(name,ext,meth)
+//From: http://mycroft.mozdev.org/developer/hosting.html
+{
+  if ((typeof window.external == "object") && ((typeof window.external.AddSearchProvider == "unknown") || (typeof window.external.AddSearchProvider == "function"))) {
+    if ((typeof window.external.AddSearchProvider == "unknown") && meth == "p") {
+      alert("This plugin uses POST which is not currently supported by Internet Explorer's implementation of OpenSearch.");
+    } else {
+      window.external.AddSearchProvider(
+        "http://sumsearch.org/searchplugins/" + name + ".xml");
+    }
+  } else {
+    alert("You will need a browser which supports OpenSearch to install this plugin.");
+  }
+}
+
+//-->
+<a name="list"/>
+</script>
+	
+</head>
+
+<body onload="onLoad();" onresize="onResize();">
+
+<div id="body">
+
+    <h3>New testament history</h3>
+
+    <table width="100%" border="0">
+	<tr>
+		<td valign="top">
+<font color="#009982" size="+1"><strong>Timeline</strong></font>
+		<table border="0" cellpadding="0" cellspacing="0" height="1" width="75%">
+<tbody><tr><td bgcolor="#009982" height="1" width="100%" valign="top">
+<img src="/icons/spacer.gif" height="1" alt="spacer"/></td></tr></tbody></table>
+<div>This page is best viewed with a large Internet browser window.<br />
+Move the timeline by clicking and dragging the <span style="font-weight:bold;color:#009982">green band</span> with your mouse.</div>
+
+
+    <!--<div style="height: 20px; margin-left:730px;width:30px">test</div>-->
+    <div id="tl" class="timeline-default" style="height: 1200px; width:1200px"></div>
+
+
+		<!-- <a href="javascript:centerTimeline(1700);">recenter</a> -->
+
+	</td>
+	  	</tr>
+</table>
+
+</div>
+</body>
+</html>
