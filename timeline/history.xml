@@ -1,0 +1,166 @@
+<!-- Documentation: http://simile.mit.edu/timeline/api/scripts/sources.js
+Images: http://simile.mit.edu/repository/timeline/trunk/src/main/webapp/api/images/
+-->
+<data>
+
+<!-- start of History -->
+
+    <event start='5 AD' end='67 AD' title='Paul 5 - 67 AD' 
+    		icon='include/images/dull-red-circle.png' 
+    		image='include/images/dull-red-circle.png' 
+    		thumbnail='include/images/dull-red-circle.png'
+    		link = 'http://en.wikipedia.org/wiki/Paul_the_Apostle'
+    		>
+			&lt;div&gt;Authorship dates:&lt;/div&gt;
+				&lt;ol&gt;  
+					&lt;ul&gt;1 Thessalonians (~51 AD)&lt;/ul&gt;
+					&lt;ul&gt;Philippians (52-54 AD)&lt;/ul&gt;
+					&lt;ul&gt;Philemon (52-54 AD)&lt;/ul&gt;
+					&lt;ul&gt;1 Corinthians (53-54 AD)&lt;/ul&gt;
+					&lt;ul&gt;Galatians (55 AD)&lt;/ul&gt;
+					&lt;ul&gt;2 Corinthians (55-56 AD)&lt;/ul&gt;
+					&lt;ul&gt;Romans (55-58 AD)&lt;/ul&gt;
+				;&lt;/ol&gt;
+        </event>
+        
+    <event start='160 AD' end='175 AD' title='Diatessaron Harmony' 
+    		icon='include/images/dull-red-circle.png' 
+    		image='include/images/' 
+    		thumbnail='include/images/'
+    		link = 'http://en.wikipedia.org/wiki/Diatessaron'
+			target= '_blank'
+    		>
+				&lt;div&gt;Wikipedia: &quot;The Diatessaron (c 160-175) is the most prominent Gospel harmony created by &lt;a target='_blank' href='http://en.wikipedia.org/wiki/Tatian'&gt;Tatian&lt;/a&gt;, an early Christian apologist and ascetic.&quot;&lt;/div&gt;
+        </event>
+
+    <event start='313 AD' title='Constantine - Edict of Milan' 
+    		icon='include/images/dull-red-circle.png' 
+    		image='include/images/PubMed-favicon.gif' 
+    		thumbnail='include/images/PubMed-favicon.gif'
+    		link = 'http://en.wikipedia.org/wiki/Edict_of_Milan'
+    		>
+				&lt;div&gt;Wikipedia: &quot;The Edict of Milan (Edictum Mediolanense) was a letter signed by emperors Constantine I and Licinius that proclaimed religious toleration in the Roman Empire. The letter was issued in 313, shortly after the conclusion of the Diocletianic Persecution.&quot;&lt;/div&gt;
+        </event>
+
+    <event start='50 AD' end='180 AD' title='Gnosticism' 
+    		icon='include/images/dull-green-circle.png' 
+    		image='include/images/PubMed-favicon.gif' 
+    		thumbnail='include/images/PubMed-favicon.gif' 
+    		link = 'http://en.wikipedia.org/wiki/Irenaeus'
+    		>
+				&lt;div&gt;Important people&lt;/div&gt;
+				&lt;div&gt;&lt;li&gt;Valentinus&lt;/div&gt;
+				&lt;div&gt;Important writings&lt;/div&gt;
+				&lt;div&gt;&lt;li&gt;Gospel of Truth&lt;/div&gt;
+				&lt;div&gt;&lt;li&gt;Interpretation of the Knowledge&lt;/div&gt;
+				&lt;div&gt;Irenaeus wrote &quot;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/On_the_Detection_and_Overthrow_of_the_So-Called_Gnosis'&gt;The Destruction and Overthrow of Falsely So-called Knowledge&lt;/a&gt;.&quot;&lt;/div&gt;
+				&lt;div&gt;Pagels, Elaine (2004-06-29). The Gnostic Gospels. Random House. Kindle Edition.&lt;/div&gt;
+        </event>
+
+    <event start='180 AD' title='Irenaeus: Adversus haereses' 
+    		icon='include/images/dull-red-circle.png' 
+    		image='include/images/PubMed-favicon.gif' 
+    		thumbnail='include/images/PubMed-favicon.gif' 
+    		link = 'http://en.wikipedia.org/wiki/Irenaeus'
+    		>
+				&lt;div&gt;Irenaeus wrote &quot;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/On_the_Detection_and_Overthrow_of_the_So-Called_Gnosis'&gt;The Destruction and Overthrow of Falsely So-called Knowledge&lt;/a&gt;.&quot;&lt;/div&gt;
+				&lt;div&gt;Pagels, Elaine (2004-06-29). The Gnostic Gospels . Random House. Kindle Edition.&lt;/div&gt;
+				&lt;div&gt;Athanasius also wrote against gnostics&lt;/div&gt;
+        </event>
+
+    <event start='325 AD' end='381 AD' title='Nicene Creeds' classname='important'
+    		icon='include/images/dull-red-circle.png' 
+    		image='include/images/PubMed-favicon.gif' 
+    		thumbnail='include/images/PubMed-favicon.gif' 
+    		link = 'http://en.wikipedia.org/wiki/Nicene_Creed'
+    		>
+				&lt;div&gt;First creed was First Council of Nicea (325)&lt;/div&gt;
+				&lt;div&gt;Second creed was First Council of Constantinople (381)&lt;/div&gt;
+        </event>
+
+    <event start='1054 AD' title='Great Schism' classname="important"
+    		icon='include/images/dull-red-circle.png' 
+    		image='include/images/dull-red-circle.png' 
+    		thumbnail='include/images/dull-red-circle.png' 
+    		>
+				&quot;The primary causes of the Schism were disputes over papal authority -- the Roman Pope claimed he held authority over the four Eastern patriarchs, while the four eastern patriarchs claimed that the primacy of the Patriarch of Rome was only honorary, and thus he had authority only over Western Christians -- and over the insertion of the filioque clause into the Nicene Creed.&quot;&lt;br&gt;
+        &lt;a target='_blank' href='http://www.theopedia.com/Great_Schism'&gt;Theopedia&lt;/a&gt;
+        </event>
+
+		<event start='1517 AD' title='Martin Luther 95 Theses 1517' classname="important"
+    		icon='include/images/dull-red-circle.png' 
+    		image='include/images/PubMed-favicon.gif' 
+    		thumbnail='include/images/PubMed-favicon.gif' 
+    		>
+				&quot;Cardiovascular event rates were much the same in both groups, although 14 (0.5%) participants in the rosiglitazone group and two (0.1%) in the placebo group developed heart failure (p=0.01).&quot;&lt;br&gt;
+        &lt;a target='_blank' href='http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&amp;tool=AnnalsTimeline&amp;Cmd=DetailsSearch&amp;Term=16997664%5Buid%5D'&gt;PubMed&lt;/a&gt; - &lt;a target='_blank' href='http://www.acpjc.org/Content/146/1/issue/ACPJC-2007-146-1-008.htm'&gt;ACP JC&lt;/a&gt; Published:
+        </event>
+        
+    <event start='1534 AD' title='Church of England separates' 
+    		icon='include/images/dull-red-circle.png' 
+    		image='include/images/PubMed-favicon.gif' 
+    		thumbnail='include/images/PubMed-favicon.gif' 
+    		>
+				&quot;Occured in 1534&lt;br&gt;
+        &lt;a target='_blank' href='http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&amp;tool=AnnalsTimeline&amp;Cmd=DetailsSearch&amp;Term=16997664%5Buid%5D'&gt;PubMed&lt;/a&gt; - &lt;a target='_blank' href='http://www.acpjc.org/Content/146/1/issue/ACPJC-2007-146-1-008.htm'&gt;ACP JC&lt;/a&gt; Published:
+        </event>
+
+    <event start='1545 AD' end='1563 AD' title='Council of Trent' 
+    		icon='include/images/dull-red-circle.png' 
+    		image='include/images/PubMed-favicon.gif' 
+    		thumbnail='include/images/PubMed-favicon.gif' 
+    		>
+				&lt;div&gt;Occured 1545 to 63&lt;/div&gt;
+				&lt;div&gt;From Wikipedia:&lt;br&gt;The council issued condemnations on what it defined as Protestant heresies and defined Church teachings in the areas of Scripture and Tradition, Original Sin, Justification, Sacraments, the Eucharist in Holy Mass and the veneration of saints. It issued numerous reform decrees.[3] By specifying Catholic doctrine on salvation, the sacraments, and the Biblical canon, the Council was answering Protestant disputes.[1] The Council entrusted to the Pope the implementation of its work; as a result, Pope Pius IV issued the Tridentine Creed in 1565; and Pope Pius V issued in 1566 the Roman Catechism, in 1568 a revised Roman Breviary, and in 1570 a revised Roman Missal, thus standardizing what since the 20th century has been called the Tridentine Mass (from the city's Latin name Tridentum), and Pope Clement VIII issued in 1592 a revised edition of the Vulgate&lt;/div&gt;
+        </event>
+
+    <event start='1624 AD' end='1807 AD' title='Deism' isDuration='false'
+    		icon='include/images/dull-green-circle.png' 
+    		image='include/images/PubMed-favicon.gif' 
+    		thumbnail='include/images/PubMed-favicon.gif' 
+    		link = 'http://en.wikipedia.org/wiki/Deism'
+    		>
+				&lt;div&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Deism#Early_deism'&gt;Wikipedia&lt;/a&gt;: Lord Herbert of Cherbury (d. 1648) is generally considered the "father of English deism", and his book De Veritate (On Truth, as It Is Distinguished from Revelation, the Probable, the Possible, and the False) (1624) the first major statement of deism.&lt;/div&gt;
+				&lt;div&gt;&lt;li&gt;There is one Supreme God&lt;/div&gt;
+				&lt;div&gt;&lt;li&gt;He ought to be worshipped&lt;/div&gt;
+				&lt;div&gt;&lt;li&gt;Virtue and piety are the chief parts of divine worship&lt;/div&gt;
+				&lt;div&gt;&lt;li&gt;Divine goodness doth dispense rewards and punishments both in this life and after it&lt;/div&gt;
+				&lt;div&gt;&lt;li&gt;There is one Supreme God&lt;/div&gt;
+				&lt;hr&gt;
+				&lt;div&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Voltaire'&gt;Wikipedia&lt;/a&gt;: In a 1763 essay, Voltaire supported the toleration of other religions and ethnicities: &quot;It does not require great art, or magnificently trained eloquence, to prove that Christians should tolerate each other. I, however, am going further: I say that we should regard all men as our brothers. What? The Turk my brother? The Chinaman my brother? The Jew? The Siam? Yes, without doubt; are we not all children of the same father and creatures of the same God?&quot;&lt;/div&gt;
+				&lt;hr&gt;
+				&lt;div&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/The_Age_of_Reason'&gt;Wikipedia&lt;/a&gt;: The Age of Reason; Being an Investigation of True and Fabulous Theology is a deistic pamphlet, written by eighteenth-century British radical and American revolutionary Thomas Paine, that criticizes institutionalized religion and challenges the legitimacy of the Bible, the central sacred text of Christianity. Published in three parts in 1794, 1795, and 1807, it was a bestseller in the United States, where it caused a short-lived deistic revival.&lt;/div&gt;
+        </event>
+        
+		<event start='1793 AD' end='5000 AD' title='Universalist' 
+    		icon='include/images/dull-green-circle.png' 
+    		image='include/images/PubMed-favicon.gif' 
+    		thumbnail='include/images/PubMed-favicon.gif' 
+    		link = 'http://en.wikipedia.org/wiki/Christian_Universalism'
+    		>
+				&lt;div&gt;&lt;li&gt;God is the loving Parent of all people, see Love of God.&lt;/div&gt;
+				&lt;div&gt;&lt;li&gt;Jesus Christ reveals the nature and character of God and is the spiritual leader of humankind&lt;/div&gt;
+				&lt;div&gt;&lt;li&gt;Humankind is created with an immortal soul which death does not end, and which God will never destroy&lt;/div&gt;
+				&lt;div&gt;&lt;li&gt;Sin has negative consequences for the sinner either in this life or the afterlife&lt;/div&gt;
+        </event>
+
+    <event start='1671 AD' end='5000 AD' title='Quakers: Letter to the Governor...' 
+    		icon='include/images/dull-green-circle.png' 
+    		image='include/images/PubMed-favicon.gif' 
+    		thumbnail='include/images/PubMed-favicon.gif' 
+    		link = 'http://en.wikipedia.org/wiki/Quakers'
+    		>
+        </event>
+        
+    <event start='1836 AD' end='1850' title='Transcendentalism' 
+    		icon='include/images/dull-green-circle.png' 
+    		image='include/images/PubMed-favicon.gif' 
+    		thumbnail='include/images/PubMed-favicon.gif' 
+    		link = 'http://en.wikipedia.org/wiki/Transcendentalism'
+    		>
+				&lt;div&gt;&lt;li&gt;In 1850, Emerson published &lt;a target='_blank' href='http://en.wikipedia.org/wiki/Nature_%28essay%29'&gt;Nature&lt;/a&gt;.&lt;/div&gt;
+        </event>
+
+<!-- end of History -->
+
+</data>

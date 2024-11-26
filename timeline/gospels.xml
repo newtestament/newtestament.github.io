@@ -1,0 +1,73 @@
+<!-- Documentation: http://simile.mit.edu/timeline/api/scripts/sources.js
+Images: http://simile.mit.edu/repository/timeline/trunk/src/main/webapp/api/images/
+-->
+<data>
+
+    <event start='70 AD' title='Mark written' 
+    		icon='include/images/dull-yellow-circle.png' 
+    		image='include/images/dull-yellow-circle.png' 
+    		thumbnail='include/images/dull-yellow-circle.png' 
+    		>
+        &lt;a target='_blank' href='https://en.wikipedia.org/wiki/Gospel_of_Mark#Composition_and_setting'&gt;WikiPedia&lt;/a&gt;
+        </event>
+
+    <event start='80 AD' title='Luke written' 
+    		icon='include/images/dull-yellow-circle.png' 
+    		image='include/images/dull-yellow-circle.png' 
+    		thumbnail='include/images/dull-yellow-circle.png' 
+    		>
+        &lt;a target='_blank' href='https://en.wikipedia.org/wiki/Authorship_of_Luke%E2%80%93Acts'&gt;Authorship of Luke-Acts (WikiPedia)&lt;/a&gt; Published:
+        </event>
+
+    <event start='80 AD' title='Matthew written' 
+    		icon='include/images/dull-yellow-circle.png' 
+    		image='include/images/dull-yellow-circle.png' 
+    		thumbnail='include/images/dull-yellow-circle.png' 
+    		>
+        &lt;a target='_blank' href='http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&amp;tool=AnnalsTimeline&amp;Cmd=DetailsSearch&amp;Term=16997664%5Buid%5D'&gt;PubMed&lt;/a&gt; - &lt;a target='_blank' href='http://www.acpjc.org/Content/146/1/issue/ACPJC-2007-146-1-008.htm'&gt;ACP JC&lt;/a&gt; Published:
+        </event>
+
+    <event start='90 AD' title='John written' 
+    		icon='include/images/dull-yellow-circle.png' 
+    		image='include/images/dull-yellow-circle.png' 
+    		thumbnail='include/images/dull-yellow-circle.png' 
+    		>
+        &lt;a target='_blank' href='http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&amp;tool=AnnalsTimeline&amp;Cmd=DetailsSearch&amp;Term=16997664%5Buid%5D'&gt;PubMed&lt;/a&gt; - &lt;a target='_blank' href='http://www.acpjc.org/Content/146/1/issue/ACPJC-2007-146-1-008.htm'&gt;ACP JC&lt;/a&gt; Published:
+        </event>
+
+    <event start='50 AD' end='140 AD' title='Thomas written'
+    		icon='include/images/dull-yellow-circle.png' 
+    		image='include/images/dull-yellow-circle.png' 
+    		thumbnail='include/images/dull-yellow-circle.png' 
+    		>
+        &lt;a target='_blank' href='http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&amp;tool=AnnalsTimeline&amp;Cmd=DetailsSearch&amp;Term=16997664%5Buid%5D'&gt;PubMed&lt;/a&gt; - &lt;a target='_blank' href='http://www.acpjc.org/Content/146/1/issue/ACPJC-2007-146-1-008.htm'&gt;ACP JC&lt;/a&gt; Published:
+        </event>
+
+    <event start='117 AD' title='Papyrus P52 written' end='138 AD'
+    		icon='include/images/dull-yellow-circle.png' 
+    		image='include/images/.gif' 
+    		thumbnail='include/images/.gif' 
+				link='http://en.wikipedia.org/wiki/Rylands_Library_Papyrus_P52'
+    		>
+        &lt;div&gt;Contains:&lt;/div&gt;
+        &lt;div&gt;Front: Gospel of John 18:31-33&lt;/div&gt;
+        &lt;div&gt;Back: Gospel of John 18:37-38&lt;/div&gt;
+        &lt;div&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Rylands_Library_Papyrus_P52'&gt;Wikipedia&lt;/a&gt;&lt;/div&gt;
+        </event>
+
+    <event start='180 AD' end='1973' title='Thomas inaccessible' isDuration='true'
+    		icon='include/images/dull-red-circle.png' 
+    		image='include/images/dull-yellow-circle.png' 
+    		thumbnail='include/images/dull-yellow-circle.png' 
+    		color='gray'
+    		>
+				&lt;div&gt;&quot; &quot;&lt;/div&gt;
+				&lt;div&gt;&quot; &quot;&lt;/div&gt;
+				&lt;div&gt;&quot; &quot;&lt;/div&gt;
+				&lt;div&gt;&quot; &quot;&lt;/div&gt;
+				&lt;div&gt;&quot; &quot;&lt;/div&gt;
+				&lt;div&gt;&quot; &quot;&lt;/div&gt;
+				&lt;div&gt;Pagels, Elaine (2004-06-29). The Gnostic Gospels . Random House. Kindle Edition.&lt;/div&gt;
+        </event>
+
+</data>

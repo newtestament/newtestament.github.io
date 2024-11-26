@@ -1,0 +1,172 @@
+<!-- Documentation: http://simile.mit.edu/timeline/api/scripts/sources.js
+Images: http://simile.mit.edu/repository/timeline/trunk/src/main/webapp/api/images/
+-->
+<data>
+
+<!-- start of Philosophy -->
+
+		<event start='160 AD' end='220 AD' title='Tertullian' isDuration='false'
+    		icon='include/images/dull-green-circle.png' 
+    		image='' 
+    		thumbnail='' 
+    		link = 'http://en.wikipedia.org/wiki/Tertullian'
+    		>
+				&lt;li&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Trinity'&gt;Trinity&lt;/a&gt;&lt;/li&gt;
+        </event>
+
+		<event start='475 AD' end='550 AD' title='Denys (Pseudo-Dionysius the Areopagite)' isDuration='false'
+    		icon='include/images/dull-green-circle.png' 
+    		image='' 
+    		thumbnail='' 
+    		link = 'http://en.wikipedia.org/wiki/Pseudo-Dionysius_the_Areopagite'
+    		>
+				&lt;li&gt; &quot; granting enlightenments in proportionate to each being &quot; &lt;/li&gt;
+				&lt;div&gt;He wrote &lt;a target='_blank' href='http://www.ccel.org/ccel/dionysius/works.html'&gt;Corpus Areopagiticum&lt;/a&gt;.&lt;/div&gt;
+				&lt;li&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Christian_mysticism'&gt;Christian mysticism&lt;/a&gt;&lt;/li&gt;
+        </event>
+
+		<event start='1207 AD' end='1273 AD' title='Rumi' isDuration='false'
+    		icon='include/images/dull-green-circle.png' 
+    		image='' 
+    		thumbnail='' 
+    		link = 'https://en.wikipedia.org/wiki/Rumi'
+    		>
+				&lt;li&gt; &quot; The lamps are different, but the Light is the same; it comes from Beyond. &quot; &lt;/li&gt;
+				&lt;li&gt;&lt;a target='_blank' href='https://en.wikipedia.org/wiki/Rumi'&gt;Rumi (WikiPedia)&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Christian_mysticism'&gt;Christian mysticism&lt;/a&gt;&lt;/li&gt;
+        </event>
+
+		<event start='1260 AD' end='1328 AD' title='Meister Eckhart' isDuration='false'
+    		icon='include/images/dull-green-circle.png' 
+    		image='' 
+    		thumbnail='' 
+    		link = 'https://en.wikipedia.org/wiki/Meister_Eckhart'
+    		>
+				&lt;li&gt; &quot; 'God and the Godhead are as different from each other as heaven and earth. &quot; (Sermon 27) &lt;/li&gt;
+				&lt;li&gt;&lt;a target='_blank' href='https://en.wikipedia.org/wiki/Meister_Eckhart'&gt;Meister Eckhart (WikiPedia)&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Christian_mysticism'&gt;Christian mysticism&lt;/a&gt;&lt;/li&gt;
+        </event>
+
+		<event start='1181 AD' end='1226 AD' title='Francis of Assisi' isDuration='false'
+    		icon='include/images/dull-green-circle.png' 
+    		image='' 
+    		thumbnail='' 
+    		link = 'http://en.wikipedia.org/wiki/Francis_of_Assisi'
+    		>
+				&lt;div&gt;&lt;b&gt;Prayer of Saint Francis&lt;/b&gt;&lt;/div&gt;
+				&lt;div&gt;Lord, make me an instrument of your peace.&lt;/div&gt;
+				&lt;div&gt;Where there is hatred, let me sow love.&lt;/div&gt;
+				&lt;div&gt;Where there is injury, pardon.&lt;/div&gt;
+				&lt;div&gt;Where there is doubt, faith.&lt;/div&gt;
+				&lt;div&gt;Where there is despair, hope.&lt;/div&gt;
+				&lt;div&gt;Where there is darkness, light.&lt;/div&gt;
+				&lt;div&gt;Where there is sadness, joy.&lt;/div&gt;
+				&lt;div&gt;O Divine Master,&lt;/div&gt;
+				&lt;div&gt;grant that I may not so much seek to be consoled, as to console;&lt;/div&gt;
+				&lt;div&gt;to be understood, as to understand;&lt;/div&gt;
+				&lt;div&gt;to be loved, as to love.&lt;/div&gt;
+				&lt;div&gt;For it is in giving that we receive.&lt;/div&gt;
+				&lt;div&gt;It is in pardoning that we are pardoned,&lt;/div&gt;
+				&lt;div&gt;and it is in dying that we are born to Eternal Life.&lt;/div&gt;
+				&lt;div&gt;.&lt;/div&gt;
+				&lt;div&gt;Amen.&lt;/div&gt;
+        </event>
+
+    <event start='1135 AD' end='1204 AD' title='Maimonides'
+    		icon='include/images/dull-green-circle.png' 
+    		image='' 
+    		thumbnail='' 
+    		link = 'http://en.wikipedia.org/wiki/Maimonides'
+    		>
+				&lt;div&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Negative_theology'&gt;Negative theology&lt;/a&gt;&lt;/div&gt;
+				&lt;div&gt;&lt;a target='_blank' href='http://en.wikisource.org/wiki/The_Guide_for_the_Perplexed_%28Friedlander%29/Part_I#CHAPTER_XXVI'&gt;The Law speaks in the language of man&lt;/a&gt;&lt;/div&gt;
+				&lt;div&gt;Theodicy: &lt;a target='_blank' href='http://en.wikipedia.org/wiki/Maimonides#The_problem_of_evil'&gt;Evil is the absence of good&lt;/a&gt;&lt;/div&gt;
+				&lt;div&gt;Authored &lt;a target='_blank' href='http://en.wikipedia.org/wiki/Guide_for_the_Perplexed'&gt;Guide for the Perplexed&lt;/a&gt;.&lt;/div&gt;
+				&lt;div&gt;&lt;a target='_blank' href='http://www.sacred-texts.com/jud/gfp/gfp003.htm'&gt;Table of contents&lt;/a&gt;.&lt;/div&gt;
+				&lt;div&gt;Part 1&lt;/div&gt;
+				&lt;li&gt;&lt;a target='_blank' href='http://en.wikisource.org/wiki/The_Guide_for_the_Perplexed_%28Friedlander%29/Part_I#CHAPTER_LI'&gt;LI On the Necessity of Proving the Inadmissibility of Attributes in reference to God&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a target='_blank' href='http://www.sacred-texts.com/jud/gfp/gfp164.htm'&gt;True beliefs versus necessary beliefs&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;Incorporeality of God&lt;/li&gt;
+				&lt;div&gt;Authored &lt;a target='_blank' href='http://en.wikipedia.org/wiki/Jewish_principles_of_faith'&gt;13 principles of faith&lt;/a&gt;.&lt;/div&gt;
+				&lt;li&gt;The existence of God&lt;/li&gt;
+				&lt;li&gt;God's unity&lt;/li&gt;
+				&lt;li&gt;God's spirituality and incorporeality&lt;/li&gt;
+				&lt;li&gt;God's eternity&lt;/li&gt;
+				&lt;li&gt;God alone should be the object of worship&lt;/li&gt;
+				&lt;li&gt;Revelation through God's prophets&lt;/li&gt;
+				&lt;li&gt;The preeminence of Moses among the prophets&lt;/li&gt;
+				&lt;li&gt;God's law given on Mount Sinai&lt;/li&gt;
+				&lt;li&gt;The immutability of the Torah as God's Law&lt;/li&gt;
+				&lt;li&gt;God's foreknowledge of human actions&lt;/li&gt;
+				&lt;li&gt;Reward of good and retribution of evil&lt;/li&gt;
+				&lt;li&gt;The coming of the Jewish Messiah&lt;/li&gt;
+				&lt;li&gt;The resurrection of the dead&lt;/li&gt;
+        </event>
+
+		<event start='1225 AD' end='1274 AD' title='Thomas Aquinas'
+    		icon='include/images/dull-green-circle.png' 
+    		image='Thomas_Aquinas_by_Fra_Bartolommeo-100px.jpg' 
+    		thumbnail='Thomas_Aquinas_by_Fra_Bartolommeo-16px.jpg' 
+    		link = 'http://en.wikipedia.org/wiki/Thomas_Aquinas'
+    		>
+				&lt;div&gt;He wrote &lt;a target='_blank' href='http://en.wikipedia.org/wiki/Summa_Theologica'&gt;Summa Theologica&lt;/a&gt;.&lt;/div&gt;
+				&lt;li&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Quinque_viae'&gt;Quinque viae&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a target='_blank' href='#'&gt;Just war&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a target='_blank' href='#'&gt;Collecting interest on loans is forbidden&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a target='_blank' href='#'&gt;selling a thing for more or less than it is worth is unlawful&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Divine_simplicity'&gt;Divine simplicity&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a target='_blank' href='http://www.gutenberg.org/cache/epub/17611/pg17611.html'&gt;It is absolutely true that God is not a body&lt;/a&gt;&lt;/li&gt;
+        </event>
+
+    <event start='1260 AD' end='1327 AD' title='Desiderius Erasmus'
+    		icon='include/images/dull-green-circle.png' 
+    		image='' 
+    		thumbnail='' 
+    		link = 'http://en.wikipedia.org/wiki/Desiderius_Erasmus'
+    		>
+				&lt;li&gt;&lt;a target='_blank' href='#'&gt;Catholic humanist &lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a target='_blank' href='#'&gt;Religious tolerance &lt;/a&gt;&lt;/li&gt;
+        </event>
+
+		<event start='1632 AD' end='1677 AD' title='Baruch Spinoza'
+    		icon='include/images/dull-green-circle.png' 
+    		image='' 
+    		thumbnail='' 
+    		link = 'http://en.wikipedia.org/wiki/Baruch_Spinoza'
+    		>
+				&lt;div&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Baruch_Spinoza'&gt;Wikipedia&lt;/a&gt;&lt;/div&gt;
+				&lt;div&gt;&lt;a target='_blank' href='http://www.gutenberg.org/files/3800/3800-h/3800-h.htm'&gt;PROP. XV. Whatsoever is, is in God, and without God nothing can be, or be conceived&lt;/a&gt;&lt;/div&gt;
+				&lt;div style='left-margin:5px' &gt;&lt;a target='_blank' href='http://www.gutenberg.org/files/3800/3800-h/3800-h.htm'&gt;For all who have in anywise reflected on the divine nature deny that God has a body&lt;/a&gt;&lt;/div&gt;
+				&lt;div&gt;&lt;a target='_blank' href='http://www.gutenberg.org/files/3800/3800-h/3800-h.htm'&gt;PROP. XXIV. The more we understand particular things, the more do we understand God&lt;/a&gt;&lt;/div&gt;
+				&lt;div&gt;&lt;a target='_blank' href='http://www.gutenberg.org/files/3800/3800-h/3800-h.htm'&gt;PROP. XXV. The highest endeavour of the mind, and the highest virtue is to understand things by the third kind of knowledge&lt;/a&gt;&lt;/div&gt;
+        </event>
+        
+    <event start='1694 AD' end='1778 AD' title='Voltaire'
+    		icon='include/images/dull-green-circle.png' 
+    		image='' 
+    		thumbnail='' 
+    		link = 'http://en.wikipedia.org/wiki/Voltaire'
+    		>
+				&lt;div&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Voltaire'&gt;Wikipedia&lt;/a&gt;&lt;/div&gt;
+        </event>
+
+    <event start='1813 AD' end='1855 AD' title='Soren Kierkegaard' 
+    		icon='include/images/dull-green-circle.png' 
+    		image='' 
+    		thumbnail='' 
+    		link = 'http://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard'
+    		>
+        </event>
+
+    <event start='1843 AD' end='5000 AD' title='Existentialism' isDuration='false'
+    		icon='include/images/dull-green-circle.png' 
+    		image='' 
+    		thumbnail='' 
+    		link = 'http://en.wikipedia.org/wiki/Existentialism'
+    		>
+				&lt;div&gt;From Wikipedia:&lt;br&gt; &lt;/div&gt;
+        </event>
+
+<!-- end of Philosphy -->
+
+</data>

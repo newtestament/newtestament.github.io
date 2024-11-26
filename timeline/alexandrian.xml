@@ -1,0 +1,106 @@
+<data>
+
+
+<!-- Start of Alexandrian -->
+
+    <event start='Jan 1 367 13:00:00 GMT' end='Jan 1 367 13:00:00 GMT' isDuration='false'
+    		title='Athanasius first lists the NT'  
+				link='http://en.wikipedia.org/wiki/Athanasius#New_Testament_canon'
+    		icon='include/images/dark-red-circle.png'
+    		color='gray' 
+    		image='include/images/'
+    		thumbnail='include/images/'>
+        &lt;div&gt;Bishop Athanasius wrote in 367 in anual pastoral letter to Egyptian churches&lt;/div&gt;
+        &lt;div&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Athanasius#New_Testament_canon'&gt;Athanasius&lt;/a&gt; : &lt;/div&gt;
+        </event>
+
+    <event start='Jan 1 330 13:00:00 GMT' end='Jan 1 1884 13:00:00 GMT' isDuration='true'
+    		title='Codex Sinaiticus inaccessible'  
+				link='http://en.wikipedia.org/wiki/Codex_Sinaiticus'
+    		icon='include/images/dull-yellow-circle.png'
+    		color='gray' 
+    		image='include/images/fda-favicon.gif'
+    		thumbnail='include/images/fda-favicon.gif'>
+        &lt;div&gt;Written 330 to 360s&lt;/div&gt;
+        &lt;div&gt;Alexandrian text-type written in Greek&lt;/div&gt;
+        &lt;div&gt;Found 1844 by &lt;a target='_blank' href='http://en.wikipedia.org/wiki/Constantin_von_Tischendorf'&gt;Tischendorf&lt;/a&gt; : &lt;/div&gt;
+        &lt;hr&gt;
+        &lt;div&gt;1844: &quot;It was at the foot of Mount Sinai, in the Convent of St Catherine, that I discovered the pearl of all my researches. In visiting the monastery in the month of May 1844, I perceived in the middle of the great hall a large and wide basket full of old parchments; and the librarian who was a man of information told me that two heaps of papers like these, mouldered by time, had been already committed to the flames. What was my surprise to find amid this heap of papers a considerable number of sheets of a copy of the Old Testament in Greek, which seemed to me to be one of the most ancient that I had ever seen. The authorities of the monastery allowed me to possess myself of a third of these parchments, or about forty three sheets, all the more readily as they were designated for the fire. But I could not get them to yield up possession of the remainder. The too lively satisfaction which I had displayed had aroused their suspicions as to the value of the manuscript. I transcribed a page of the text of Isaiah and Jeremiah, and enjoined on the monks to take religious care of all such remains which might fall their way.&quot;&lt;/div&gt;
+        &lt;hr&gt;
+        &lt;div&gt;1859: &quot;I unrolled the cover, and discovered, to my great surprise, not only those very fragments which, fifteen years before, I had taken out of the basket, but also other parts of the Old Testament, the New Testament complete, and in addition, the Epistle of Barnabas and a part of the Pastor of Hermas. Full of joy, which this time I had the self-command to conceal from the steward and the rest of the community, I asked, as if in a careless way, for permission to take the manuscript into my sleeping chamber to look over it more at leisure.&quot;&lt;/div&gt;
+        &lt;hr&gt;
+        &lt;div&gt;von Tischendorf, When Were Our Gospels Written? (London: The Religious Tract Society, 1866), 23. Quoted by: Ehrman, Bart D. (2009-01-23). Misquoting Jesus (p. 119). Harper Collins, Inc.. Kindle Edition. &lt;/div&gt;
+        </event>
+
+    <event start='Jan 1 330 13:00:00 GMT' end='Jan 1 1868 13:00:00 GMT' isDuration='true'
+    		title='Codex Vaticanus inaccessible'  
+				link='http://en.wikipedia.org/wiki/Codex_Vaticanus'
+    		icon='include/images/dull-yellow-circle.png'
+    		color='gray' 
+    		image='include/images/fda-favicon.gif'
+    		thumbnail='include/images/fda-favicon.gif'>
+        &lt;div&gt;Written 325 to 350s&lt;/div&gt;
+        &lt;div&gt;Alexandrian text-type written in Greek&lt;/div&gt;
+        &lt;div&gt;Release 1868 &lt;/div&gt;
+        </event>
+        
+    <event start='Jan 1 420 13:00:00 GMT' end='Jan 1 1627 13:00:00 GMT' isDuration='true'
+    		title='Codex Alexandrinus inaccessible'  
+				link='http://en.wikipedia.org/wiki/Codex_Alexandrinus'
+    		icon='include/images/dull-yellow-circle.png'
+    		color='gray' 
+    		image='include/images/fda-favicon.gif'
+    		thumbnail='include/images/fda-favicon.gif'>
+        &lt;div&gt;Written 400 to 440s&lt;/div&gt;
+        &lt;div&gt;Alexandrian text-type written in Greek&lt;/div&gt;
+        &lt;div&gt;Given to King Charles I of England in 1627 &lt;/div&gt;
+        </event>
+
+    <event start='Jan 1 450 13:00:00 GMT' end='Jan 1 1843 13:00:00 GMT' isDuration='true'
+    		title='Codex Ephraemi Rescriptus inaccessible'  
+				link='http://en.wikipedia.org/wiki/Codex_Ephraemi_Rescriptus'
+    		icon='include/images/dull-yellow-circle.png'
+    		color='gray' 
+    		image='include/images/fda-favicon.gif'
+    		thumbnail='include/images/fda-favicon.gif'>
+        &lt;div&gt;Written c. 450s&lt;/div&gt;
+        &lt;div&gt;Alexandrian text-type written in Greek&lt;/div&gt;
+        &lt;div&gt;Tischendorf read in 1843 &lt;/div&gt;
+        </event>
+
+    <event start='Jan 1 1881 13:00:00 GMT'
+    		title='Westcott-Hort NT (Greek)'  
+				link='http://en.wikipedia.org/wiki/The_New_Testament_in_the_Original_Greek'
+    		icon='include/images/dark-red-circle.png'
+    		color='red' 
+    		image='include/images/fda-favicon.gif'
+    		thumbnail='include/images/fda-favicon.gif'>
+        &lt;div&gt;Alexandrian text-type written in Greek&lt;/div&gt;
+        &lt;div&gt;Used Tischendorf's work&lt;/div&gt;
+        </event>
+
+    <event start='Jan 1 1973 13:00:00 GMT'
+    		title='New International Version (English)'  
+				link='http://en.wikipedia.org/wiki/New_International_Version'
+    		icon='include/images/dark-red-circle.png'
+    		color='red' 
+    		image='include/images/fda-favicon.gif'
+    		thumbnail='include/images/fda-favicon.gif'>
+        &lt;div&gt;Alexandrian text-type written in Greek&lt;/div&gt;
+        &lt;div&gt;Used Tischendorf's work&lt;/div&gt;
+        </event>
+
+    <event start='Jan 1 1946 13:00:00 GMT'
+    		title='Revised Standard Version (English)'  
+				link='http://en.wikipedia.org/wiki/Revised_Standard_Version'
+    		icon='include/images/dark-red-circle.png'
+    		color='red' 
+    		image='include/images/fda-favicon.gif'
+    		thumbnail='include/images/fda-favicon.gif'>
+        &lt;div&gt;Alexandrian text-type written in Greek&lt;/div&gt;
+        &lt;div&gt;Used Tischendorf's work&lt;/div&gt;
+        </event>
+
+<!-- End of Alexandrian -->
+
+</data>

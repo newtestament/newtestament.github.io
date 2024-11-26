@@ -1,0 +1,99 @@
+<!-- Documentation: http://simile.mit.edu/timeline/api/scripts/sources.js
+Images: http://simile.mit.edu/repository/timeline/trunk/src/main/webapp/api/images/
+-->
+<data>
+
+    <event start='Jan 1 382 13:00:00 GMT'
+    		title='Latin Vulgate'  
+				link='http://en.wikipedia.org/wiki/Vulgate'
+    		icon='include/images/dull-blue-circle.png'
+    		color='yellow' 
+    		image='include/images/fda-favicon.gif'
+    		thumbnail='include/images/fda-favicon.gif'>
+        &lt;div&gt;Written 382&lt;/div&gt;
+        &lt;div&gt;Latin translation by St. Jerome.&lt;/div&gt;
+        </event>
+
+    <event start='Jan 1 1450 13:00:00 GMT'
+    		title='Gutenberg Bible (Latin)'  
+				link='http://en.wikipedia.org/wiki/Gutenberg_Bible'
+    		icon='include/images/dull-blue-circle.png'
+    		color='yellow' 
+    		image='include/images/fda-favicon.gif'
+    		thumbnail='include/images/fda-favicon.gif'>
+        &lt;div&gt;Printed in 1450&lt;/div&gt;
+        &lt;div&gt;It is an edition of the Vulgate.&lt;/div&gt;
+        </event>
+
+    <event start='Jan 1 1516 13:00:00 GMT' isDuration="false"
+    		title='Textus Receptus (Greek-Latin)'  
+				link='http://en.wikipedia.org/wiki/Textus_Receptus'
+    		icon='include/images/dull-blue-circle.png'
+    		color='yellow' 
+    		image='include/images/fda-favicon.gif'
+    		thumbnail='include/images/fda-favicon.gif'>
+        &lt;div&gt;Written 1516 by Desiderius Erasmus&lt;/div&gt;
+        &lt;div&gt;Byzantine text-type written with side-by-side Greek and Latin text&lt;/div&gt;
+        &lt;div&gt;Third edition includes:&lt;/div&gt;
+        &lt;div&gt;&lt;li&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Jesus_and_the_woman_taken_in_adultery'&gt;Pericope Adulterae&lt;/a&gt;&lt;/div&gt;
+        &lt;div&gt;&lt;li&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Comma_Johanneum'&gt;Comma Johanneum&lt;/a&gt;&lt;/div&gt;
+        &lt;div&gt;&lt;li&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Mark_16'&gt;Mark 16:9-20&lt;/a&gt;&lt;/div&gt;
+        </event>
+
+    <event start='Jan 1 1525 13:00:00 GMT'
+    		title='Tyndale Bible (English)'  
+				link='http://en.wikipedia.org/wiki/Tyndale_Bible'
+    		icon='include/images/dull-blue-circle.png'
+    		color='yellow' 
+    		image='include/images/fda-favicon.gif'
+    		thumbnail='include/images/fda-favicon.gif'>
+        &lt;div&gt;Written 1525&lt;/div&gt;
+        &lt;div&gt;Byzantine text-type written in English&lt;/div&gt;
+        &lt;div&gt;From Wikipedia:&lt;br&gt;In 1535, Tyndale was arrested and jailed in the castle of Vilvoorde outside Brussels for over a year. He was tried for heresy, choked, impaled and burnt on a stake in 1536. The Tyndale Bible, as it was known, continued to play a key role in spreading Reformation ideas across the English-speaking world.[2] The fifty-four independent scholars who created the King James Version of the bible in 1611 drew significantly on Tyndale's translations. One estimation suggests the New Testament in the King James Version is 83% Tyndale's, and the Old Testament 76%.&lt;/div&gt;
+        &lt;div&gt;Includes:&lt;/div&gt;
+        &lt;div&gt;&lt;li&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Comma_Johanneum'&gt;Comma Johanneum&lt;/a&gt;&lt;/div&gt;
+        &lt;div&gt;&lt;li&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Mark_16'&gt;Mark 16:9-20&lt;/a&gt;&lt;/div&gt;
+        </event>
+
+    <event start='Jan 1 1534 13:00:00 GMT'
+    		title='Luther Bible (German)'  
+				link='http://en.wikipedia.org/wiki/Luther_Bible'
+    		icon='include/images/dull-blue-circle.png'
+    		color='yellow' 
+    		image='include/images/fda-favicon.gif'
+    		thumbnail='include/images/fda-favicon.gif'>
+        &lt;div&gt;Written 1534&lt;/div&gt;
+        &lt;div&gt;He used Erasmus' second edition (1519) of the Greek New Testament, known as the Textus Receptus (WP)&lt;/div&gt;
+        &lt;div&gt;Byzantine text-type written in German&lt;/div&gt;
+        &lt;div&gt;Includes:&lt;/div&gt;
+        &lt;div&gt;&lt;li&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Comma_Johanneum'&gt;Comma Johanneum&lt;/a&gt;&lt;/div&gt;
+        &lt;div&gt;&lt;li&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Mark_16'&gt;Mark 16:9-20&lt;/a&gt;&lt;/div&gt;
+        </event>
+
+    <event start='Jan 1 1611 13:00:00 GMT'
+    		title='King James Bible (English)'  
+				link='http://en.wikipedia.org/wiki/King_James_Bible'
+    		icon='include/images/dull-blue-circle.png'
+    		color='yellow' 
+    		image='include/images/fda-favicon.gif'
+    		thumbnail='include/images/fda-favicon.gif'>
+        &lt;div&gt;Written 1611&lt;/div&gt;
+        &lt;div&gt;Byzantine text-type written in English&lt;/div&gt;
+        &lt;div&gt;Includes:&lt;/div&gt;
+        &lt;div&gt;&lt;li&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Comma_Johanneum'&gt;Comma Johanneum&lt;/a&gt;&lt;/div&gt;
+        &lt;div&gt;&lt;li&gt;&lt;a target='_blank' href='http://en.wikipedia.org/wiki/Mark_16'&gt;Mark 16:9-20&lt;/a&gt;&lt;/div&gt;
+        </event>
+
+    <event start='1707 AD'
+    		title='Mills Apparatus'  
+				link='http://en.wikipedia.org/wiki/John_Mill_%28theologian%29'
+    		icon='include/images/dull-blue-circle.png'
+    		color='yellow' 
+    		image='include/images/fda-favicon.gif'
+    		thumbnail='include/images/fda-favicon.gif'>
+        &lt;div&gt;Written 1707&lt;/div&gt;
+        &lt;div&gt;Novum testamentum graecum, cum lectionibus variantibus MSS. exemplarium, versionun, editionum SS. patrum et scriptorum ecclesiasticorum, et in easdem nolis&lt;/div&gt;
+        &lt;div&gt;Catalogued 30,000 textual variations&lt;/div&gt;
+        </event>
+
+</data>
