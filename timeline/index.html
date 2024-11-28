@@ -263,55 +263,6 @@
             }
         }
     </script>
-
-<script type="text/javascript">
-<!--
-function errorMsg()
-{
-  alert("Netscape 6 or Mozilla is needed to install a sherlock plugin");
-}
-
-function addEngine(name,ext,cat)
-{
-  if ((typeof window.sidebar == "object") && (typeof window.sidebar.addSearchEngine == "function"))
-  {
-    //cat="Web";
-    //cat=prompt('In what category should this engine be installed?','Web')
-    //Mozilla seems to only use .png while IE8 only uses .ico
-    if (ext == ""){ext='png'}
-    if (browser=="Microsoft Internet Explorer"){ext='ico'}
-    window.sidebar.addSearchEngine(
-      "http://sumsearch.org/searchplugins/"+name+".src",	/* engine URL */
-      "http://sumsearch.org/searchplugins/"+name+"."+ext,	/* icon URL */
-      name,		/* engine name */
-      cat )	 /* category name */
-      ;
-  }
-  else
-  {
-    //errorMsg();
-    alert("Netscape 6 or Mozilla is needed to install a sherlock plugin");
-  }
-}
-
-function addOpenSearch(name,ext,meth)
-//From: http://mycroft.mozdev.org/developer/hosting.html
-{
-  if ((typeof window.external == "object") && ((typeof window.external.AddSearchProvider == "unknown") || (typeof window.external.AddSearchProvider == "function"))) {
-    if ((typeof window.external.AddSearchProvider == "unknown") && meth == "p") {
-      alert("This plugin uses POST which is not currently supported by Internet Explorer's implementation of OpenSearch.");
-    } else {
-      window.external.AddSearchProvider(
-        "http://sumsearch.org/searchplugins/" + name + ".xml");
-    }
-  } else {
-    alert("You will need a browser which supports OpenSearch to install this plugin.");
-  }
-}
-
-//-->
-<a name="list"/>
-</script>
 	
 </head>
 
@@ -327,7 +278,7 @@ function addOpenSearch(name,ext,meth)
 <font color="#009982" size="+1"><strong>Timeline</strong></font>
 		<table border="0" cellpadding="0" cellspacing="0" height="1" width="75%">
 <tbody><tr><td bgcolor="#009982" height="1" width="100%" valign="top">
-<img src="/icons/spacer.gif" height="1" alt="spacer"/></td></tr></tbody></table>
+&nbsp;</td></tr></tbody></table>
 <div>This page is best viewed with a large Internet browser window.<br />
 Move the timeline by clicking and dragging the <span style="font-weight:bold;color:#009982">green band</span> with your mouse.</div>
 
